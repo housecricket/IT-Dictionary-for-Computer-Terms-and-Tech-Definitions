@@ -1,5 +1,6 @@
 # IT Dictionary for Computer Terms and Tech Definitions  
-More than just a glossary, our dictionary of information technology covers everything from the basics of hardware and software to cloud computing and ERP.  
+More than just a glossary, our dictionary of information technology covers everything from the basics of hardware and software to cloud computing and ERP.   
+[TOC]
 ## 2FA - Two Factor Authenticatio  
 The 2FA is an additional layer of security you can set up to keep your account secure. It requires a unique one-time use code.
 ## A/B Testing
