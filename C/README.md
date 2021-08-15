@@ -11,7 +11,15 @@ CLS is a metric for measuring visual stability of the web page, it helps quantif
 A code review is the process (manual or automatic) of checking the source code for mistakes and improve the overall quality.
 ## Container
 A container is a set of processes that are isolated from the rest of the system. They are portable and consistent through different environments.
+## CI - Continuous Integration
+It's a primary DevOps best practice, which allowing developers merge their codes in central repository and running test, build automatically. 
+## CD - Continuous Delivery
+It's a process of deploying your application by human action after finishing the CI stage
+## CD - Continuous Deployment
+It's a process of deploying your application after finishing the CI stage without any human action.
 ## CORS - Cross-Origin Resource Sharing
 CORS is a mechanism that grants the browsers access to resources outside the scope of the current origin.
 ## CRUD - Create Read Update Delete
 CRUD are the four basic functions that models should be able to do to implement persistent storage.
+## CSRF - Cross-site Request Forgery
+CRSF is a technique that allows hacker use victim's Cookies for making an illegal HTTP request directly in user computer. 
