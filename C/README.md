@@ -23,3 +23,5 @@ CORS is a mechanism that grants the browsers access to resources outside the sco
 CRUD are the four basic functions that models should be able to do to implement persistent storage.
 ## CSRF - Cross-site Request Forgery
 CRSF is a technique that allows hacker use victim's Cookies for making an illegal HTTP request directly in user computer. 
+## Computer vision
+Computer vision is a technology field that makes computer can "see" like a human being
