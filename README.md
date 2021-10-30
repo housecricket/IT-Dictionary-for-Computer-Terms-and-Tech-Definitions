@@ -12,29 +12,5 @@ More than just a glossary, our dictionary of information technology covers every
 Feel free to submit a PR adding a new term with a definition.
 
 ## Glossaries
-- 0-9
-- [A](A/README.md)
-- B
-- C
-- D
-- E 
-- F
-- G
-- H
-- I
-- J
-- K
-- L
-- M
-- N
-- O
-- P
-- Q
-- R
-- S
-- T
-- U 
-- V
-- X
-- Y
-- Z
+1. 0 1 [2](2/README.md) 3 4 5 6 7 8 9
+2. [A](A/README.md) B C D E F G H I J K L M N O P Q R S T
