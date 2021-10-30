@@ -3,6 +3,13 @@
 A/B testing is an experimentation method by comparing two (or more) variants of a webpage or app against each other to determine which one performs better.
 ## AAA - Authentication Authorization Accounting   
 AAA refers to Authentication, Authorization and Accounting.
+### Authentication
+When a person’s identity is established with proof and confirmed by a system
+* Something you know 
+* Something you are
+* Something you have 
+* Something you do
+* Somewhere you are
 ## ACID - Atomicity Consistency Isolation Durability
 An ACID database system guarantees that transactions are processed reliably, following the 4 properties: Atomicity, Consistency, Isolation, Durability.
 ## Active Record
