@@ -10,6 +10,10 @@ When a person’s identity is established with proof and confirmed by a system
 * Something you have 
 * Something you do
 * Somewhere you are
+### Authorization
+Occurs when a user is given access to a certain piece of data or certain areas of a building
+### Accounting
+Tracking of data, computer usage, and network resources. Non-repudiation occurs when you have proof that someone has taken an action
 ## ACID - Atomicity Consistency Isolation Durability
 An ACID database system guarantees that transactions are processed reliably, following the 4 properties: Atomicity, Consistency, Isolation, Durability.
 ## Active Record
