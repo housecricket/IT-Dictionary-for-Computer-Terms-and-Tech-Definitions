@@ -1,8 +1,18 @@
-# IT Dictionary for Computer Terms and Tech Definitions  
+<div align="center">
+  <img src="https://wiki.js.org/img/nolan-literature.2917af16.svg" width="150" alt="Dictionary">
+  <!-- Image From Wiki.js -->
+  <h2>IT Dictionary for Computer Terms and Tech Definitions </h2>
+  <p align="center">Simple definitions of IT terms</p>
+
+## Introduction  
 More than just a glossary, our dictionary of information technology covers everything from the basics of hardware and software to cloud computing and ERP.   
-**Glossaries**
-- 2
-- A
+
+## Community
+Feel free to submit a PR adding a new term with a definition.
+
+## Glossaries
+- 0-9
+- [A](#A)
 - B
 - C
 - D
@@ -27,3 +37,4 @@ More than just a glossary, our dictionary of information technology covers every
 - X
 - Y
 - Z
+## A
