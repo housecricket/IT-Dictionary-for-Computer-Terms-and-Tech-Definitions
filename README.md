@@ -3,7 +3,7 @@
   <!-- Image From Wiki.js -->
   <h2>IT Dictionary for Computer Terms and Tech Definitions </h2>
   <p align="center">Simple definitions of IT terms</p>
-
+</div>
 ## Introduction  
 More than just a glossary, our dictionary of information technology covers everything from the basics of hardware and software to cloud computing and ERP.   
 
