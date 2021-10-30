@@ -13,7 +13,7 @@ Feel free to submit a PR adding a new term with a definition.
 
 ## Glossaries
 - 0-9
-- [A](#A)
+- [A](A/README.md)
 - B
 - C
 - D
@@ -38,4 +38,3 @@ Feel free to submit a PR adding a new term with a definition.
 - X
 - Y
 - Z
-## A
